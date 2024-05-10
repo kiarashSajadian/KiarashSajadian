@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/iqraaa0001/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/iqraaa0001/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_burningkid/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_burningkid/#gh-dark-mode-only)
 
 ### Languages Resources and Tools:
 
