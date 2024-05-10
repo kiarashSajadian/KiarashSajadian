@@ -1,17 +1,17 @@
 
 # Hi, I'm Kiarash Sajadian aka 🔥 Burning Kid! 🔥 👋🤍
 
-### I'm a Bioinformatics student, an aspiring front-end developer and a passionate learner!!
+### I'm a WordPress designer, an aspiring front-end developer, and a passionate learner!!
 
-- 👩‍💻 I’m working on some mini front-end projects for newbies to practice my skills
+- 👨‍💻 I’m working on some mini front-end projects for newbies to practice my skills
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate with fellow developers
-- 🥅 2022 Goals: To learn more and more about tech and grow as a front-end developer
-- ⚡ Fun fact: I love to read novels and write stories
+- 🖥 I’m looking to collaborate with fellow developers
+- 🥅 2024 Goals: To learn more and more about tech and grow as a front-end developer
+- ⚡ Fun fact: I love to walk barefoot 👣🏞
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iqra-zaheer-45bb42231/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iqra-zaheer-45bb42231/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/iqraaa0001/#gh-light-mode-only)
