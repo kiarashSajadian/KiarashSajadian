@@ -6,7 +6,7 @@
 - 👨‍💻 I’m working on some mini front-end projects for newbies to practice my skills
 - 🌱 I’m currently learning JavaScript
 - 🖥 I’m looking to collaborate with fellow developers
-- 🥅 2024 Goals: To learn more and more about tech and grow as a front-end developer
+- 🥅 2024 Goals: To learn JavaScript and React deeply and grow as a front-end developer
 - ⚡ Fun fact: I love to walk barefoot 👣🏞
 
 ### Connect with me:
