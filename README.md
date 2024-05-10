@@ -1,5 +1,5 @@
 
-# Hi, I'm Kiarash Sajadian aka Burning Kid! 👋🤍
+# Hi, I'm Kiarash Sajadian aka 🔥 Burning Kid! 🔥 👋🤍
 
 ### I'm a Bioinformatics student, an aspiring front-end developer and a passionate learner!!
 
