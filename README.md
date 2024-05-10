@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iqra-zaheer-45bb42231/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/iqraaa0001/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/iqraaa0001/#gh-dark-mode-only)
