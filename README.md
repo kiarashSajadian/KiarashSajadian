@@ -13,7 +13,7 @@ With a background in graphics and civil engineering, I bring a unique combinatio
 - 🐦 [Twitter](https://x.com/OZtheBurningKid)
 - 📫 [Email](mailto:kiarashsajadian@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kiarash-sajadian-6b5088124/)
-- 🔗 [Portfolio](https://www.lumanastudio.com/)
+- 💻 [Portfolio](https://www.lumanastudio.com/)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
