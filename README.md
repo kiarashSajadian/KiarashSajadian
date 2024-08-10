@@ -6,7 +6,7 @@ With a background in graphics and civil engineering, I bring a unique combinatio
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript
 - **Frameworks & Libraries:** React
-- **Tools & Platforms:** GitHub, Vercel
+- **Tools & Platforms:** GitHub, Vercel, Notion
 - **No-code Platforms:** Webflow, WordPress
 
 ## Connect with Me 📬
