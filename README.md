@@ -21,3 +21,4 @@ I’m looking forward to collaborating on projects that are at the intersection 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KiarashSajadian&show_icons=true&theme=dark&title_color=fda5f6&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="arekkusu17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KiarashSajadian&show_icons=true&theme=dark&title_color=fda5f6&text_color=ffffff&hide_border=true&locale=en" alt="arekkusu17" /></p>
+<img src="https://komarev.com/ghpvc/?username=KiarashSajadian&color=red"/>
