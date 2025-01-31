@@ -1,7 +1,7 @@
 👋 Hi, I'm Kiarash Sajadian, a front-end developer and a passionate learner with lots of experience in no-code platforms like Webflow and WordPress.
 
 ## About Me
-With a background in graphics and civil engineering, I bring a unique combination of art, discipline, and technical vision to the programming world. My passion lies in developing software solutions that not only solve problems but also make the world a better place to live.
+With a background in graphics and motion design, I bring a unique combination of art, discipline, and technical vision to programming. I am passionate about developing software solutions that not only solve problems but also make the world a better place.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, (HTML, CSS)
